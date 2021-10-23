@@ -1,0 +1,12 @@
+!!support.Config
+browser: chrome
+isHeadless: false
+implicitTimeout: 1
+pageLoadTimeout: 300
+explicitTimeout: 5
+supportedOSList:
+  - mac
+  - win
+admin:
+  username: jdoe
+  password: welcome
